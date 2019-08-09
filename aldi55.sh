@@ -100,7 +100,7 @@ echo $i"Ôûê"$pu"  GMAIL   :  aldidefril11@gmail.com"$i"     Ôûê"
 echo $i"Ôûê"$pu"  YOUTUBE :  YouTube RMD"$i"                 Ôûê"
 echo $pur"==================="$cy" ============================="
 echo
-echo $cy"MeNu BRUTEPORCE NeWS:"
+echo $cy"MeNu HaCkInG NeWS:"
 echo $ku"["$me"1"$ku"]"$i" REPORT FB"
 echo $ku"["$me"2"$ku"]"$i" BRUTE PORCE"
 echo $ku"["$me"3"$ku"]"$i" BRUTE FORCE FB CRACKER"
@@ -115,7 +115,17 @@ echo $ku"["$me"11"$ku"]"$i" YOUTUBE-DL"
 echo $ku"["$me"12"$ku"]"$i" LACAK LOKASI"
 echo $ku"["$me"13"$ku"]"$i" SPAM SMS BRUTAL TERBARU"
 echo $ku"["$me"14"$ku"]"$i" DARK FB"
-echo $i"["$me"15"$i"]"$ku" EXIT"
+echo $ku"["$me"15"$ku"]"$i" HACK PULSA"
+echo $ku"["$me"16"$ku"]"$i" HACK KUOTA 3"
+echo $ku"["$me"17"$ku"]"$i" NUYUL GoPay"
+echo $ku"["$me"18"$ku"]"$i" HACK INSTAGRAM"
+echo $ku"["$me"19"$ku"]"$i" ROOT TERMUX"
+echo $ku"["$me"20"$ku"]"$i" BIKIN SCRIPT DEFACE"
+echo $ku"["$me"21"$ku"]"$i" NO KK KTP GRATIS"
+echo $ku"["$me"22"$ku"]"$i" HACK LAMPU"
+echo $ku"["$me"23"$ku"]"$i" LITESPAM"
+echo $ku"["$me"14"$ku"]"$i" SANTET ONLINE"
+echo $i"["$me"25"$i"]"$ku" EXIT"
 echo
 echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan anda"$pur"]"
 read -p"Ôò¦ÔöÇ>> " pil
@@ -265,6 +275,106 @@ python2 dark.py
 fi
 
 if [ $pil = 15 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/InYourG00D1/PulsaFree
+cd PulsaFree
+sh Free.sh
+fi
+
+if [ $pil = 16 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/InYourG00D1/KuotaFree
+cd KuotaFree
+sh 2.sh
+fi
+
+if [ $pil = 17 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/InYourG00D1/Nuyul-GoPay
+cd Nuyul-GoPay
+php Go-Pay.php
+fi
+
+if [ $pil = 18 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/linuxkukeren/instagram
+cd instagram
+python2 linuxkerenhacking.py
+fi
+
+if [ $pil = 19 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/thelinuxchoice/instainsane
+cd instainsane
+./instainsane.sh
+fi
+
+if [ $pil = 20 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/Ubaii/script-deface-creator
+cd script-deface-creator
+python2 create.py
+fi
+
+if [ $pil = 21 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/zerosvn/ktpkkgenerate
+cd ktpkkgenerate
+php zerosvn.php
+fi
+
+if [ $pil = 22 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/LionSec/katoolin.git
+cd katoolin
+python2 katooli.py
+fi
+
+if [ $pil = 23 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/4L13199/LITESPAM
+cd LITESPAM
+sh LITESPAM.sh
+fi
+
+if [ $pil = 24 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/Gameye98/santet-online
+cd santet-online
+python2 santet.py
+fi
+
+if [ $pil = 25 ]
 then
 clear
 figlet -f slant "W A I T"|Ulolcat
