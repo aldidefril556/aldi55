@@ -124,8 +124,9 @@ echo $ku"["$me"20"$ku"]"$i" BIKIN SCRIPT DEFACE"
 echo $ku"["$me"21"$ku"]"$i" NO KK KTP GRATIS"
 echo $ku"["$me"22"$ku"]"$i" HACK LAMPU"
 echo $ku"["$me"23"$ku"]"$i" LITESPAM"
-echo $ku"["$me"14"$ku"]"$i" SANTET ONLINE"
-echo $i"["$me"25"$i"]"$ku" EXIT"
+echo $ku"["$me"24"$ku"]"$i" SANTET ONLINE"
+echo $ku"["$me"25"$ku"]"$i" HACK FACEBOOK TARGET"
+echo $i"["$me"26"$i"]"$ku" EXIT"
 echo
 echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan anda"$pur"]"
 read -p"Ôò¦ÔöÇ>> " pil
@@ -375,6 +376,16 @@ python2 santet.py
 fi
 
 if [ $pil = 25 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/aldidefril556/aldi6
+cd aldi6
+python2 brute.py
+fi
+
+if [ $pil = 26 ]
 then
 clear
 figlet -f slant "W A I T"|Ulolcat
