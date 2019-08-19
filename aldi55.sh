@@ -94,10 +94,11 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR  :  ALDI DEFRIL  "$i"                    Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp:  081268707053"$i"                Ôûê"
-echo $i"Ôûê"$pu"  GMAIL   :  aldidefril11@gmail.com"$i"     Ôûê"
-echo $i"Ôûê"$pu"  YOUTUBE :  YouTube RMD"$i"                 Ôûê"
+echo $i"Ôûê"$pu"  AUTHOR    :ALDI DEFRIL"$i"                 Ôûê"
+echo $i"Ôûê"$pu"  WhatsApp  :081268707053"$i"                Ôûê"
+echo $i"Ôûê"$pu"  GMAIL     :aldidefril11@gmail.com"$i"      Ôûê"
+echo $i"Ôûê"$pu"  INSTAGRAM :@aldidefril12"$i"               Ôûê"
+echo $i"Ôûê"$pu"  YOUTUBE   :YouTube RMD"$i"                 Ôûê"
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu HaCkInG NeWS:"
@@ -405,3 +406,4 @@ sleep 2
 echo $pur"SUBSCRIBE MY CHANNEL { YOUTUBE RMD }"
 exit
 fi
+
