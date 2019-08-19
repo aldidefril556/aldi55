@@ -1,4 +1,3 @@
-n#!/bin/bash
 clear
 bi='\033[34;1m' #biru
 i='\033[32;1m' #ijo
